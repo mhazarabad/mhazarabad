@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi, I'm Hadi! 👋
+
+## 💫 About Me:
 ✅ Technically-astute and transformational developer with substantial experience in using Python programming language to develop 🧑🏽‍💻 , maintain, and optimize 📈 software applications, scripts, and systems. <br>✅ Proven success in implementing data storage and retrieval mechanisms using databases such as PostgreSQL, MySQL. <br>✅ Instrumental in developing RESTful APIs (Application Programming Interfaces) for communication between front-end and back-end components. Proficient in collaborating with UI/UX designers and with other backend members to ensure seamless integration of design concepts into functional interfaces. <br>✅ Master's student 🎓 in Biotechnology 🔬 and Artificial Intelligence for Health at the University of Pisa 🤌.
 
 
