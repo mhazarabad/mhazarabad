@@ -1,7 +1,12 @@
-# Hi, I'm Hadi! 👋
+# Hi, It's Hadi! 👋
 
 ## 💫 About Me:
-✅ Technically-astute and transformational developer with substantial experience in using Python programming language to develop 🧑🏽‍💻 , maintain, and optimize 📈 software applications, scripts, and systems. <br>✅ Proven success in implementing data storage and retrieval mechanisms using databases such as PostgreSQL, MySQL. <br>✅ Instrumental in developing RESTful APIs (Application Programming Interfaces) for communication between front-end and back-end components. Proficient in collaborating with UI/UX designers and with other backend members to ensure seamless integration of design concepts into functional interfaces. <br>✅ Master's student 🎓 in Biotechnology 🔬 and Artificial Intelligence for Health at the University of Pisa 🤌.
+
+Passionate Python Web Developer 💻 and Data Analyst 📊 on a journey towards a Master's degree 🎓 in Biotechnologies 🔬 and Applied AI 🤖 for Health 🧬 at the University of Pisa🤌.
+Known for rocking it in dynamic start-up vibes, especially when it comes to crafting large-scale products. 
+
+Fluent in Python for creating scalable systems, whipping up REST APIs, and fine-tuning database performance. 
+Remote work expertise with a proven history of acing team management and collaboration. 🤝 Blending a strong academic foundation with real-world experience, I bring a mix of Python wizardry, innovation, and adaptability to elevate large-scale projects in the ever-evolving world of Web Development and Data Analytics. Excited to sprinkle my skills and remote work mojo to fuel the growth of forward-thinking organizations. Let's make things happen! 🚀✨
 
 
 ## 🌐 Socials:
