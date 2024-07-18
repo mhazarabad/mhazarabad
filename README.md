@@ -3,10 +3,10 @@
 ## 💫 About Me:
 
 Passionate Python Web Developer 💻 and Data Analyst 📊 on a journey towards a Master's degree 🎓 in Biotechnologies 🔬 and Applied AI 🤖 for Health 🧬 at the University of Pisa🤌.
-Known for rocking it in dynamic start-up vibes, especially when it comes to crafting large-scale products. 
 
-Fluent in Python for creating scalable systems, whipping up REST APIs, and fine-tuning database performance. 
-Remote work expertise with a proven history of acing team management and collaboration. 🤝 Blending a strong academic foundation with real-world experience, I bring a mix of Python wizardry, innovation, and adaptability to elevate large-scale projects in the ever-evolving world of Web Development and Data Analytics. Excited to sprinkle my skills and remote work mojo to fuel the growth of forward-thinking organizations. Let's make things happen! 🚀✨
+Fluent in Python for creating scalable systems, whipping up REST APIs, and fine-tuning database performance and developing AI softwares.
+
+Let's make things happen! 🚀✨
 
 
 ## 🌐 Socials:
