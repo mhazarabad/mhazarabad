@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-a Software Engineer specialized in Generative AI. I build multi-agent systems, LLM applications, and intelligent backends. Recently, I’ve been working on projects biult with CrewAI and OpenAI framwork.
+a Software Engineer specialized in Generative AI. I build multi-agent systems, LLM applications, and intelligent backends. Recently, I’ve been working on projects built with CrewAI and OpenAI framwork.
 
 
 ## 🌐 Socials:
